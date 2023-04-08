@@ -491,13 +491,14 @@ img {
   border-radius: 50%;
   background: var(--cream);
   position: fixed;
-  top: 85px;
-  right: 5px;
+  bottom: 18px;
+  left: 10px;
   border: none;
   padding: 5px;
   outline-color: transparent;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1),
     -3px -3px 10px rgba(255, 200, 168, 0.104);
+  z-index: 99999;
 }
 #themeBtn.active {
   box-shadow: inset 3px 3px 10px rgba(0, 0, 0, 0.4),
@@ -618,5 +619,16 @@ img {
     height: 15px;
     border-radius: 20px;
     padding: 15px 20px;
+  }
+
+  #themeBtn {
+    top: inherit;
+    bottom: 18px;
+    width: 30px;
+    height: 30px;
+  }
+
+  #themeBtn i {
+    font-size: 20px;
   }
 }
