@@ -301,6 +301,7 @@ function chooseQuestionSet(setIndex) {
     retakeBtns.classList.add("active");
     retakeBtn.style.display = "none";
     quizCard.style.display = "flex";
+    main.classList.add("height");
     topics.style.display = "none";
     scoreDisplay.style.display = "none";
     document.body.classList.add("retake");
@@ -309,6 +310,7 @@ function chooseQuestionSet(setIndex) {
     scoreValue.textContent = score + "/" + questionSet.content.length;
     setTimeout(() => {
       quizCard.style.display = "flex";
+      main.classList.add("height");
       displayQuestion();
     }, 800);
     setTimeout(() => {
@@ -432,6 +434,7 @@ function goToHome() {
     options.classList.remove("visible");
     scoreDisplay.classList.remove("active");
     quizCard.style.display = "none";
+    main.classList.remove("height");
     topics.style.display = "grid";
     score = 0;
     scoreValue.textContent = score + "/" + questionSet.content.length;
