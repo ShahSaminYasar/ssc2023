@@ -119,7 +119,7 @@ var questions = [
       },
       {
         question:
-          "Which type of substance shows very littl volume change if temperature is increased?",
+          "Which type of substance shows very little volume change if temperature is increased?",
         options: ["Solid", "Liquid", "Gaseous", "Plasma"],
         answer: 0,
       },
@@ -156,7 +156,7 @@ var questions = [
         answer: 3,
       },
       {
-        question: "Which gases form Ammonium Chloride (NH4)?",
+        question: "Which gases form Ammonium Chloride (NH4Cl)?",
         options: ["HCL and NH4OH", "H+ and OH-", "Cl- and NH4+", "HCL and NH3"],
         answer: 3,
       },
@@ -192,7 +192,7 @@ var questions = [
   {
     subject: "Chemistry",
     topic: "Chapter - 3",
-    note: "#",
+    note: "https://drive.google.com/file/d/1xuW2OvlITDVDXtC93CE6GbsIq4x1VrN3/view?usp=sharing",
     content: [
       {
         question: "What is the chemical formula of rust?",
@@ -221,9 +221,172 @@ var questions = [
         answer: 3,
       },
       {
-        question: `According to the symbol 56/26Fe^2+  (i) atomic mass is 56 <br> (ii) electron number is 26 (iii) neutron number is 30 <b>Which of the following is correct?`,
+        question: `According to the symbol 56/26Fe²⁺  (i)atomic mass is 56 (ii)electron number is 26 (iii)neutron number is 30 <b>Which of the following is correct?`,
         options: ["i, ii", "i, iii", "ii, iii", "i, ii, iii"],
         answer: 1,
+      },
+      {
+        question: "What is the chemical symbol of the element antimony?",
+        options: ["At", "Au", "Sb", "Sn"],
+        answer: 2,
+      },
+      {
+        question:
+          "An electron will first enter which of the following orbitals?",
+        options: ["3d", "4p", "4s", "3p"],
+        answer: 3,
+      },
+      {
+        question:
+          "How many electrons are present in the energy level 'M' of a Potassium atom?",
+        options: ["2", "8", "9", "18"],
+        answer: 1,
+      },
+      {
+        question: "How many different elements exist in the human body?",
+        options: ["23", "24", "25", "26"],
+        answer: 3,
+      },
+      {
+        question: "What is the Latin name of the element 'Mercury'?",
+        options: ["Kalium", "Ferrum", "Plumbum", "Hydrargyrum"],
+        answer: 3,
+      },
+      {
+        question:
+          "Who proposed that the atom will not be stable if the electrons follow a circular orbit?",
+        options: ["Neils Bohr", "Le-Chatelier", "James Maxwell", "Rutherford"],
+        answer: 2,
+      },
+      {
+        question:
+          "How many protons are present in the nucleus of a Helium atom?",
+        options: ["1", "2", "3", "4"],
+        answer: 1,
+      },
+      {
+        question:
+          "The energy of which of the following orbitals is relatively the lowest?",
+        options: ["3d", "4p", "5s", "4f"],
+        answer: 0,
+      },
+      {
+        question: "The magnitude of an electron's charge-",
+        options: [
+          "-9.110x10<sup>-28</sup>",
+          "-1.60x10<sup>-19</sup>",
+          "9.110x10<sup>-28</sup>",
+          "1.60x10<sup>-19</sup>",
+        ],
+        answer: 1,
+      },
+      {
+        question: "What is the Latin name for Potassium?",
+        options: ["Plumbum", "Kalium", "Stannum", "Natrium"],
+        answer: 1,
+      },
+      {
+        question: "What is the real mass of a neutron?",
+        options: [
+          "1.675x10<sup>-24</sup>g",
+          "1.673x10<sup>-24</sup>g",
+          "1.67x10<sup>-24</sup>g",
+          "1.66x10<sup>-24</sup>g",
+        ],
+        answer: 0,
+      },
+      {
+        question:
+          "Which of the following has the most stable electronic configuration?",
+        options: [
+          "(n-1)d<sup>10</sup>ns<sup>1</sup>",
+          "(n-1)d<sup>8</sup>ns<sup>2</sup>",
+          "(n-1)d<sup>7</sup>ns<sup>2</sup>",
+          "(n-1)d<sup>4</sup>ns<sup>2</sup>",
+        ],
+        answer: 0,
+      },
+      {
+        question:
+          "How many electrons are present in the energy level 'M' of ₂₅Mn²⁺?",
+        options: ["0", "5", "8", "13"],
+        answer: 3,
+      },
+      {
+        question:
+          "Which element has an equal number of electrons, protons and neutrons?",
+        options: ["Na", "K", "Ca", "Cl"],
+        answer: 2,
+      },
+      {
+        question: "How many protons are there in an Al³⁺ ion?",
+        options: ["10", "13", "16", "27"],
+        answer: 1,
+      },
+      {
+        question:
+          "The electrons in an atom- (i)revolve in orbit (ii)follow an elliptical orbit (iii)experience centripetal force. Which one of the following is correct?",
+        options: ["i, ii", "i, iii", "ii, iii", "i, ii, iii"],
+        answer: 3,
+      },
+      {
+        question: "Which isotope is utilized to treat brain cancer?",
+        options: [
+          "<sup>131</sup>I",
+          "<sup>192</sup>Ir",
+          "<sup>60</sup>Co",
+          "<sup>32</sup>P",
+        ],
+        answer: 1,
+      },
+      {
+        question:
+          "The ion 7/3Li⁺ - (i)no. of neutrons  is 4 (ii)no. of protons is 4 (iii)no. of electrons is 2",
+        options: ["i", "iii", "i, iii", "i, ii, iii"],
+        answer: 2,
+      },
+      {
+        question: "Which of the following is the symbol for Tin?",
+        options: ["Sb", "Sn", "Ti", "Te"],
+        answer: 1,
+      },
+      {
+        question:
+          "H2+S→D | What is the maximum electron carrying capacity of the valance energy level of the compound 'D'?",
+        options: ["2", "8", "18", "32"],
+        answer: 2,
+      },
+      {
+        question: "What is the angular velocity of the final electron of ₁₉Q?",
+        options: ["nh/π", "2h/π", "2π/h", "h/π"],
+        answer: 1,
+      },
+      {
+        question:
+          "Which of the following orbitals will an electron enter first?",
+        options: ["4d", "4f", "5s", "5p"],
+        answer: 2,
+      },
+      {
+        question:
+          "In case of 9/4X- (i)no. of protons is 4 (ii)no. of neutrons is 5 (iii)atomic mass is 9",
+        options: ["i, ii", "i, iii", "ii, iii", "i, ii, iii"],
+        answer: 3,
+      },
+      {
+        question: "In which isotope of hydrogen there is only one neutron?",
+        options: ["Protium", "Deuterium", "Tritium", "Kalium"],
+        answer: 1,
+      },
+      {
+        question: "What is the number of protons in O²⁻?",
+        options: ["8", "9", "10", "11"],
+        answer: 0,
+      },
+      {
+        question: "How many atoms are there in one molecule of ozone (O₃)?",
+        options: ["1", "2", "3", "4"],
+        answer: 2,
       },
     ],
   },
@@ -340,7 +503,7 @@ function displayQuestion() {
         options.classList.add("visible");
         clearInterval(questionTypeAnimation);
       }
-    }, 18);
+    }, 10);
 
     btn0.innerHTML = question.options[0];
     btn1.innerHTML = question.options[1];

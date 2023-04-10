@@ -9,21 +9,31 @@
 }
 
 .light {
-  --primary: #b46060;
+  --primary: #464e9b;
   --secondary: #4d4d4d;
-  --cream: #ffbf9b;
+  --cream: #a59bff;
   --cream-light: #fff4e0;
-  --cream-dark: #ffb58a;
+  --cream-dark: #8a8cff;
   --correct-answer: #5ac46c;
   --incorrect-answer: #8c3c3c;
 }
 
-.dark {
+/* .dark {
   --cream-dark: #a85353;
   --secondary: #4d4d4d;
   --cream: #b46060;
   --cream-light: #fff4e0;
   --primary: #ffb58a;
+  --correct-answer: #5ac46c;
+  --incorrect-answer: #8c3c3c;
+} */
+
+.dark {
+  --primary: #7c87ec;
+  --secondary: #4d4d4d;
+  --cream: #131b61;
+  --cream-light: #fff4e0;
+  --cream-dark: #0f165c;
   --correct-answer: #5ac46c;
   --incorrect-answer: #8c3c3c;
 }
@@ -281,7 +291,8 @@ img {
 
 #question {
   font-size: 1.3rem;
-  color: #b32424;
+  /* color: #b32424; */
+  color: #464e9b;
   width: 100%;
   display: block;
   padding-left: 30px;
