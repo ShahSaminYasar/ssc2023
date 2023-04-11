@@ -221,7 +221,7 @@ var questions = [
         answer: 3,
       },
       {
-        question: `According to the symbol 56/26Fe²⁺  (i)atomic mass is 56 (ii)electron number is 26 (iii)neutron number is 30 <b>Which of the following is correct?`,
+        question: `According to the symbol 56/26Fe²⁺  (i)atomic mass is 56 (ii)electron number is 26 (iii)neutron number is 30 - Which of the following is correct?`,
         options: ["i, ii", "i, iii", "ii, iii", "i, ii, iii"],
         answer: 1,
       },
