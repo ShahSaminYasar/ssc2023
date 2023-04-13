@@ -584,7 +584,7 @@ homeBtn.addEventListener("click", () => {
 
 function goToHome() {
   main.classList.add("active");
-  title.textContent = "22 days...";
+  title.textContent = remainingDays + " days...";
   setTimeout(() => {
     currentQuestion = 0;
     document.body.classList.remove("retake");
