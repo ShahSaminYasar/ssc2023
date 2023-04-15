@@ -391,6 +391,238 @@ var questions = [
     ],
   },
   {
+    subject: "Chemistry",
+    topic: "Chapter - 4",
+    note: "#",
+    content: [
+      {
+        question:
+          "<table><tr><td><sub>11</sub>X</tr><tr></td><td><sub>19</sub>Y</td></tr><tr><td><sub>37</sub>Z</td></tr></table>[Here, X, Y and Z are symbolic] <br> The element 'Y' belongs to which period of the periodic table?",
+        options: [
+          "1<sup>st</sup>",
+          "2<sup>nd</sup>",
+          "3<sup>rd</sup>",
+          "4<sup>th</sup>",
+        ],
+        answer: 3,
+      },
+      {
+        question:
+          "<table><tr><td><sub>11</sub>X</tr><tr></td><td><sub>19</sub>Y</td></tr><tr><td><sub>37</sub>Z</td></tr></table>[Here, X, Y and Z are symbolic] <br> From the mentioned elements -<br>(i) atomic radius decreases periodically <br> (ii) the outermost shell contains 1 electron <br> (iii) the element Z is more reactive than Y <br> <b>Which of the following is correct?</b>",
+        options: ["i, ii", "i, iii", "ii, iii", "i, ii, iii"],
+        answer: 2,
+      },
+      {
+        question:
+          "Which of the following electrons has the lowest electron affinity?",
+        options: ["Be", "Ra", "Sr", "Mg"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following conducts electricity in solid state?",
+        options: ["K", "S", "KCL", "MgCl<sub>2</sub>"],
+        answer: 0,
+      },
+      {
+        question:
+          "Which of the following elements has properties similar to nitrogen?",
+        options: ["Si", "P", "S", "O"],
+        answer: 1,
+      },
+      {
+        question:
+          "The element <sub>16</sub>A belongs to which group of the periodic table? [A is used symbolically]",
+        options: ["16", "8", "6", "2"],
+        answer: 0,
+      },
+      {
+        question:
+          "<table><tr><td>Be</td></tr><tr><td>X</td></tr><tr><td>Y</td></tr></table> In which period of the table does the element X belong to-",
+        options: [
+          "6<sup>th</sup>",
+          "5<sup>th</sup>",
+          "4<sup>th</sup>",
+          "3<sup>rd</sup>",
+        ],
+        answer: 3,
+      },
+      {
+        question:
+          "<table><tr><td>Be</td></tr><tr><td>X</td></tr><tr><td>Y</td></tr></table> Of the mentioned elements:<br>(i) the outermost shell has two electrons <br> (ii) atomic size decreases from top to bottom <br> (iii) exhibits similar properties in reaction <br> <strong>Which of the following is correct></strong>",
+        options: ["i, ii", "ii, iii", "i, iii", "i, ii, iii"],
+        answer: 2,
+      },
+      {
+        question:
+          "From left to right of the periodic table- <br> (i) metallic property decreases <br> (ii) ionization energy increases <br> (iii) atomic radius increases <br> <strong>Which of the following is correct?</strong>",
+        options: ["i, ii", "ii, iii", "i, iii", "i, ii, iii"],
+        answer: 0,
+      },
+      {
+        question:
+          "X -> 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup> 4s<sup>1</sup>; the given element belongs to which group of the periodic table?",
+        options: ["Group-14", "Group-6", "Group-5", "Group-1"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following compounds is colored?",
+        options: [
+          "Na<sub>2</sub>SO<sub>4</sub>",
+          "CaSO<sub>4</sub>",
+          "Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>",
+          "Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which of the following has the smallest atomic radius?",
+        options: [
+          "Na<sup>+</sup>",
+          "Mg<sup>2+</sup>",
+          "S<sup>2-</sup>",
+          "Cl<sup>-</sup>",
+        ],
+        answer: 1,
+      },
+      {
+        question:
+          "Mass of a single molecule of the element <sub>29</sub>X is 1.054x10<sup>-22</sup>g <br> [X is symbolic, not a conventional element symbol] <br> <strong>To which group of the periodic table does the element of the stem belong to?</strong>",
+        options: ["1", "2", "11", "12"],
+        answer: 2,
+      },
+      {
+        question:
+          "<strong>Mass of a single molecule of the element <sub>29</sub>X is 1.054x10<sup>-22</sup>g <br> [X is symbolic, not a conventional element symbol]</strong> <br> How many electrons are present in the final orbital according to the electronic configuration of the element?",
+        options: ["4", "3", "2", "1"],
+        answer: 3,
+      },
+      {
+        question: "What is the number of elements in the Actinide series?",
+        options: ["32", "30", "18", "15"],
+        answer: 3,
+      },
+      {
+        question:
+          "During the formation of which of the following compounds does each atom acquire the electronic configuration of neon?",
+        options: ["KF", "CaS", "MgO", "NaCl"],
+        answer: 2,
+      },
+      {
+        question: "Which metal was the first to be used?",
+        options: ["Au", "Ag", "Sn", "Cu"],
+        answer: 0,
+      },
+      {
+        question:
+          "How many of the total discovered elements till 2016 were produced artificially in laboratories?",
+        options: ["14", "20", "26", "98"],
+        answer: 1,
+      },
+      {
+        question: "Which element has a higher ionization energy?",
+        options: ["N", "F", "P", "Cl"],
+        answer: 1,
+      },
+      {
+        question:
+          "Which element is the exception when it comes to group determination according to laws of electronic configuration?",
+        options: ["He", "Al", "K", "Cu"],
+        answer: 0,
+      },
+      {
+        question: "Which of the following most metallic in nature?",
+        option: ["Na", "Mg", "Ca", "K"],
+        answer: 3,
+      },
+      {
+        question:
+          "How many horizontal rows were originally there in Mendeleev's periodic table?",
+        options: ["7", "8", "12", "18"],
+        answer: 2,
+      },
+      {
+        question:
+          "<sub>11</sub>P, <sub>14</sub>Q, <sub>17</sub>R [P, Q and R are used symbolically] <br> <strong>Q belongs to which group?</strong>",
+        options: ["Group-2", "Group-4", "Group-12", "Group-14"],
+        answer: 3,
+      },
+      {
+        question:
+          "<sub>11</sub>P, <sub>14</sub>Q, <sub>17</sub>R [P, Q and R are used symbolically] <br> P and R compounds- <br> (i) low melting points <br> (ii) show ionic bonds <br> (iii) natures are opposite <br> <strong> Which of the following is correct?",
+        options: ["i, ii", "i, iii", "ii, iii", "i, ii, iii"],
+        answer: 2,
+      },
+      {
+        question: "How many elements exist in the Lanthanide series?",
+        options: ["18", "16", "15", "9"],
+        answer: 2,
+      },
+      {
+        question:
+          "Which of the following shows the correct order of atomic size?",
+        options: [
+          "Li > Na > Rb > Cs",
+          "I > Br > Cl > F",
+          "Si > Al > Mg > Na",
+          "N > C > B > Li",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Ti belongs to which group of the periodic table?",
+        options: ["2", "4", "10", "14"],
+        answer: 1,
+      },
+      {
+        question: "What is the primary basis for the periodic table?",
+        options: [
+          "electron number",
+          "electronic configuration",
+          "atomic number",
+          "atomic mass",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which group has the least number of elements?",
+        options: ["12", "13", "14", "15"],
+        answer: 0,
+      },
+      {
+        question:
+          "In case of Ca and Zn- <br> (i) same valency <br> (ii) same group <br> (iii) same period <br> <strong>Which of the following is correct?</strong>",
+        options: ["i, ii", "i, iii", "ii, iii", "i, ii, iii"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following elements is the smallest in size?",
+        options: ["Si", "Al", "O", "C"],
+        answer: 2,
+      },
+      {
+        question: "Nitrogen is an element of which  group?",
+        options: ["12", "13", "14", "15"],
+        answer: 3,
+      },
+      {
+        question:
+          "What is the number of electrons in the outermost shell of alkaline earth metals?",
+        options: ["1", "2", "3", "4"],
+        answer: 1,
+      },
+      {
+        question: "Which element is chemically inert?",
+        options: ["Ne", "Na", "Cl", "Ca"],
+        answer: 0,
+      },
+      {
+        question: "How many elements are there in Group-17?",
+        options: ["4", "5", "6", "7"],
+        answer: 2,
+      },
+    ],
+  },
+  {
     subject: "Physics",
     topic: "Chapter - 2",
     note: "#",
@@ -487,7 +719,6 @@ function displayQuestion() {
   topics.style.display = "none";
   if (currentQuestion < questionSet.content.length) {
     question = questionSet.content[currentQuestion];
-    console.log(question);
     questionDisplay.innerHTML = "";
 
     if (questionTypeAnimation) {
@@ -502,8 +733,9 @@ function displayQuestion() {
       } else {
         options.classList.add("visible");
         clearInterval(questionTypeAnimation);
+        questionDisplay.innerHTML = question.question;
       }
-    }, 10);
+    }, 1);
 
     btn0.innerHTML = question.options[0];
     btn1.innerHTML = question.options[1];

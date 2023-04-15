@@ -54,6 +54,18 @@ body {
   background: var(--cream-dark);
 }
 
+table,
+tr,
+td {
+  border: 1px solid var(--primary);
+}
+
+td {
+  padding: 5px;
+  text-align: center;
+  font-size: 1rem;
+}
+
 li {
   list-style: none;
 }
@@ -86,9 +98,11 @@ img {
   /* margin-bottom: 20px; */
   position: relative;
   width: max-content;
+  letter-spacing: 2px;
 }
 #title::after {
   content: "SSC 2023";
+  letter-spacing: 1px;
   text-align: center;
   box-sizing: border-box;
   width: 0px;
@@ -290,7 +304,7 @@ img {
 }
 
 #question {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   /* color: #b32424; */
   color: #464e9b;
   width: 100%;
@@ -615,6 +629,11 @@ img {
     font-size: 13px;
   }
 
+  #topics {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
+
   .topic {
     padding: 15px 25px;
   }
@@ -623,10 +642,15 @@ img {
     font-size: 1.4rem;
   }
 
+  .topic div {
+    flex-direction: column;
+    gap: 10px;
+  }
+
   .topic div a,
   .topic div button {
     font-size: 1.3rem;
-    width: 45%;
+    width: 80%;
     height: 15px;
     border-radius: 20px;
     padding: 15px 20px;
