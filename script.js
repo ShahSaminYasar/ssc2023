@@ -393,7 +393,7 @@ var questions = [
   {
     subject: "Chemistry",
     topic: "Chapter - 4",
-    note: "#",
+    note: "https://drive.google.com/file/d/1A22d30Dph-SrMeEWDOwJkLk2K-89rR81/view?usp=sharing",
     content: [
       {
         question:
@@ -623,6 +623,229 @@ var questions = [
     ],
   },
   {
+    subject: "Chemistry",
+    topic: "Chapter - 5",
+    note: "https://drive.google.com/file/d/17edryuu8edsP2Ws-KNFl_AziwyQ7xYc_/view?usp=sharing",
+    content: [
+      {
+        question: "Which of the following is soluble in water?",
+        options: ["Agl", "AgCl", "CaCl<sub>2</sub>", "BaSO<sub>4</sub>"],
+        answer: 2,
+      },
+      {
+        question: "Which of the following melecules has a double bond?",
+        options: ["Hydrogen", "Oxygen", "Nitrogen", "Chlorine"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following is a positive radical?",
+        options: ["Phosphate", "Carbonate", "Phosphonium", "Nitrate"],
+        answer: 2,
+      },
+      {
+        question:
+          "How many electrons are present in the valence shell of halogens?",
+        options: ["1", "7", "8", "17"],
+        answer: 1,
+      },
+      {
+        question: "Who came up with the 'Octet Rule' of the periodic table?",
+        options: ["Lavoisier", "Dobereiner", "Mendeleev", "Newland"],
+        answer: 3,
+      },
+      {
+        question:
+          "Which of the following compounds follow the octet rule while bonding?",
+        options: [
+          "CaF<sub>2</sub>",
+          "BF<sub>3</sub>",
+          "PCl<sub>5</sub>",
+          "BeCl<sub>2</sub>",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which of the following can conduct electricity?",
+        options: [
+          "Na<sub>2</sub>SO<sub>4</sub>(s)",
+          "NaCl(s)",
+          "MgCl<sub>2</sub>(l)",
+          "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>(l)",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which of the following shows covalent bonding?",
+        options: ["Al<sub>2</sub>O<sub>3</sub>", "MgS", "NaH", "HCL"],
+        answer: 3,
+      },
+      {
+        question:
+          "During the formation of which of the following compounds does every participating atom gain the electronic configuration of argon?",
+        options: ["CaCl<sub>2</sub>", "CaO", "KF", "MgF<sub>2</sub>"],
+        answer: 0,
+      },
+      {
+        question:
+          "What is the active oxidation number of copper in cuprous chloride?",
+        options: [0, 1, 2, 3],
+        answer: 1,
+      },
+      {
+        question:
+          "What is the latent valency of S in the compound SO<sub>2</sub>?",
+        options: [0, 2, 4, 6],
+        answer: 1,
+      },
+      {
+        question: "Which of the following is a formula for calcium phosphate?",
+        options: [
+          "CaPO<sub>4</sub>",
+          "Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+          "Ca<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>",
+          "Ca(PO<sub>4</sub>)<sub>2</sub>",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which of the following elements show variable valency?",
+        options: ["Ca", "Al", "Fe", "Zn"],
+        answer: 2,
+      },
+      {
+        question:
+          "In case of HF - <br> (i) shows polarity <br> (ii) follows the duplet rule <br> (iii) water soluble <br> <strong>Which one of the following is correct?</strong>",
+        options: ["i, ii", "ii, iii", "i, iii", "i, ii, iii"],
+        answer: 3,
+      },
+      {
+        question: "What is the latent valency of sulphur in sulphur trioxide?",
+        options: ["zero", "two", "four", "six"],
+        answer: 0,
+      },
+      {
+        question:
+          "The bond formation of which compound is more dependent on the duplet rule than the octet rule?",
+        options: [
+          "PCl<sub>3</sub>",
+          "AlCl<sub>3</sub>",
+          "NH<sub>3</sub>",
+          "NCl<sub>3</sub>",
+        ],
+        answer: 2,
+      },
+      {
+        question: "What is the latent valency of S in H<sub>2</sub>S?",
+        options: ["6", "4", "2", "0"],
+        answer: 1,
+      },
+      {
+        question: "Free electron pairs present in CO molecule-",
+        options: [1, 2, 3, 4],
+        answer: 2,
+      },
+      {
+        question: "Which of the following elements exhibit variable valency?",
+        options: ["Al", "Cu", "Ca", "K"],
+        answer: 1,
+      },
+      {
+        question: "Which of the following shows Van der Waals force the least?",
+        options: [
+          "S<sub>8</sub>",
+          "O<sub>2</sub>",
+          "I<sub>2</sub>",
+          "H<sub>2</sub>O",
+        ],
+        answer: 3,
+      },
+      {
+        question:
+          "In compound AlCl<sub>3</sub>- <br> (i) Oxidation number of Al is +3 <br> (ii) Ionic bonds exist <br> (iii) Soluble in water <br> <strong>Which one is correct?</strong>",
+        options: ["i, ii", "i, iii", "ii, iii", "i, ii, iii"],
+        answer: 3,
+      },
+      {
+        question:
+          "Which of the following is the formula for ammonium phosphate?",
+        options: [
+          "(NH<sub>4</sub>)<sub>3</sub>PO<sub>4</sub>",
+          "NH<sub>4</sub>PO",
+          "(NH<sub>3</sub>)<sub>3</sub>PO<sub>4</sub>",
+          "NH<sub>3</sub>PO<sub>4</sub>",
+        ],
+        answer: 0,
+      },
+      {
+        question: "Which of the following radicals is divalent?",
+        options: [
+          "NO<sub>3</sub><sup>-</sup>",
+          "SO<sub>3</sub><sup>2-</sup>",
+          "PH<sub>4</sub><sup>+</sup>",
+          "PO<sub>4</sub><sup>3-</sup>",
+        ],
+        answer: 1,
+      },
+      {
+        question: "Which is the formula of Magnesium Phosphate?",
+        options: [
+          "Mg(PO<sub>4</sub>)<sub>2</sub>",
+          "Mg<sub>2</sub>(PO<sub>4</sub>)<sub>3</sub>",
+          "Mg<sub>2</sub>(PO<sub>4</sub>)",
+          "Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>",
+        ],
+        answer: 3,
+      },
+      {
+        question:
+          "In which element, valency and valence electrons are different?",
+        options: ["Zinc", "Sodium", "Magnesium", "Chlorine"],
+        answer: 3,
+      },
+      {
+        question: "Which compound has the lowest Vander Waals force?",
+        options: ["Carbon dioxide", "Ethanol", "Naphthalene", "Liquid Ammonia"],
+        answer: 0,
+      },
+      {
+        question: "Which one is soluble in water?",
+        options: [
+          "AgCl",
+          "CH<sub>4</sub>",
+          "CaCl<sub>2</sub>",
+          "C<sub>10</sub>H<sub>8</sub>",
+        ],
+        answer: 2,
+      },
+      {
+        question: "Which one is a radical?",
+        options: [
+          "P<sub>2</sub>O<sub>3</sub>",
+          "SO<sub>2</sub>",
+          "NO<sub>2</sub><sup>-</sup>",
+          "SiO<sub>2</sub>",
+        ],
+        answer: 2,
+      },
+      {
+        question: "What is the latent valency of Fe in FeCl<sub>3</sub>?",
+        options: [3, 2, 1, 0],
+        answer: 3,
+      },
+      {
+        question:
+          "<strong>H<sub>2</sub> + S → D</strong> <br> The compound 'D' - <br> (i) covalent <br> (ii) ionic <br> (iii) inorganic <br> <strong>Which one is correct?</strong>",
+        options: ["i, ii", "i, iii", "ii, iii", "i, ii, iii"],
+        answer: 1,
+      },
+      {
+        question: "Which salt is insoluble in water?",
+        options: ["KNO<sub>3</sub>", "MgCl<sub>2</sub>", "NaCl", "AgCl"],
+        answer: 3,
+      },
+    ],
+  },
+  {
     subject: "Physics",
     topic: "Chapter - 2",
     note: "#",
@@ -666,7 +889,8 @@ const targetDate = new Date("April 30, 2023");
 const timeDiff = targetDate.getTime() - todaysDate.getTime();
 // Convert the time difference to days
 const remainingDays = Math.ceil(timeDiff / (1000 * 3600 * 24));
-title.textContent = remainingDays + " days...";
+
+title.textContent = remainingDays + " days....";
 
 loadTopics();
 
@@ -816,7 +1040,7 @@ homeBtn.addEventListener("click", () => {
 
 function goToHome() {
   main.classList.add("active");
-  title.textContent = remainingDays + " days...";
+  title.textContent = remainingDays + " days....";
   setTimeout(() => {
     currentQuestion = 0;
     document.body.classList.remove("retake");
