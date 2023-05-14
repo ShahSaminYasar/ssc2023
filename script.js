@@ -845,12 +845,6 @@ var questions = [
       },
     ],
   },
-  {
-    subject: "Physics",
-    topic: "Chapter - 2",
-    note: "#",
-    content: [],
-  },
 ];
 
 // DOM
